@@ -3,7 +3,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "PermissionScopeContinue"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.license      = "MIT"
   spec.summary      = "A Periscope-inspired way to ask for iOS permissions."
   spec.description  = <<-DESC
